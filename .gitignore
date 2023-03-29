@@ -8,11 +8,11 @@ build_openroad.log
 etc/InstallerOpenROAD.sh
 
 # Test working directories
-flow/results
-flow/logs
-flow/reports
-flow/objects
-flow/tech
+#flow/results
+#flow/logs
+#flow/reports
+#flow/objects
+#flow/tech
 
 # Tar archives
 flow/*tar.gz
